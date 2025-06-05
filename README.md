@@ -35,3 +35,4 @@ Site institucional desenvolvido para um consultório odontológico, com o objeti
    ou
 3. Clique no botão verde **"Code"** acima.
 4. Selecione **"Download ZIP"** para baixar o projeto.
+5. Abra o arquivo index.html.
