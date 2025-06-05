@@ -31,5 +31,7 @@ Site institucional desenvolvido para um consultório odontológico, com o objeti
 ---
 
 ## ⚙️ Como visualizar este projeto:
-1. Clique no botão verde **"Code"** acima.
-2. Selecione **"Download ZIP"** para baixar o projeto.
+1. Acesse https://devpedrohenrique25.github.io/Consultorio-Dentista/
+   ou
+3. Clique no botão verde **"Code"** acima.
+4. Selecione **"Download ZIP"** para baixar o projeto.
